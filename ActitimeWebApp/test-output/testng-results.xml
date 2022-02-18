@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="20" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-18T22:53:58 IST" name="FirstTestsuit" finished-at="2022-02-18T22:54:26 IST" duration-ms="28088">
+    <groups>
+    </groups>
+    <test started-at="2022-02-18T22:53:58 IST" name="Test12" finished-at="2022-02-18T22:54:12 IST" duration-ms="14328">
+      <class name="testClasses.test">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:02 IST" name="launchBrowser" finished-at="2022-02-18T22:54:03 IST" duration-ms="979" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="CreatePOMobject()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:03 IST" name="CreatePOMobject" finished-at="2022-02-18T22:54:03 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePOMobject -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:03 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:04 IST" duration-ms="839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="LoginTitleVerify()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:04 IST" name="LoginTitleVerify" finished-at="2022-02-18T22:54:07 IST" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTitleVerify -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:07 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:07 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:07 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:08 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="VerifyTimeTrackPage()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:08 IST" name="VerifyTimeTrackPage" finished-at="2022-02-18T22:54:08 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTimeTrackPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:08 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:08 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:08 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:08 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="VerifytitleTaskPage()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:08 IST" name="VerifytitleTaskPage" finished-at="2022-02-18T22:54:09 IST" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifytitleTaskPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:09 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:09 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:09 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:10 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="Timeout0()[pri:1, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:10 IST" name="Timeout0" finished-at="2022-02-18T22:54:11 IST" duration-ms="1011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Timeout0 -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:11 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:11 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="ClearPOMobjects()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:11 IST" name="ClearPOMobjects" finished-at="2022-02-18T22:54:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearPOMobjects -->
+        <test-method is-config="true" signature="QuiteApp()[pri:0, instance:testClasses.test@4cc451f2]" started-at="2022-02-18T22:54:12 IST" name="QuiteApp" finished-at="2022-02-18T22:54:12 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuiteApp -->
+      </class> <!-- testClasses.test -->
+      <class name="testClasses.HeaderTest">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:53:58 IST" name="launchBrowser" finished-at="2022-02-18T22:54:02 IST" duration-ms="3749" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="CreatePOMobject()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:03 IST" name="CreatePOMobject" finished-at="2022-02-18T22:54:03 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePOMobject -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:03 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:04 IST" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="TitleTaskPage()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:04 IST" name="TitleTaskPage" finished-at="2022-02-18T22:54:07 IST" duration-ms="3519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTaskPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:07 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:07 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:07 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:08 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="URLTaskButten()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:08 IST" name="URLTaskButten" finished-at="2022-02-18T22:54:08 IST" duration-ms="517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URLTaskButten -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:08 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:08 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:08 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:09 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="VerifyTimeTrackPage()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:09 IST" name="VerifyTimeTrackPage" finished-at="2022-02-18T22:54:09 IST" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTimeTrackPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:09 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:09 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:09 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:09 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="verifyUrlUsagerPage()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:09 IST" name="verifyUrlUsagerPage" finished-at="2022-02-18T22:54:10 IST" duration-ms="857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrlUsagerPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:10 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:10 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:10 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:11 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="Timeout()[pri:1, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:11 IST" name="Timeout" finished-at="2022-02-18T22:54:12 IST" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Timeout -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:12 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:12 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="ClearPOMobjects()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:12 IST" name="ClearPOMobjects" finished-at="2022-02-18T22:54:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearPOMobjects -->
+        <test-method is-config="true" signature="QuiteApp()[pri:0, instance:testClasses.HeaderTest@1fa268de]" started-at="2022-02-18T22:54:12 IST" name="QuiteApp" finished-at="2022-02-18T22:54:12 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuiteApp -->
+      </class> <!-- testClasses.HeaderTest -->
+    </test> <!-- Test12 -->
+    <test started-at="2022-02-18T22:54:12 IST" name="Test22" finished-at="2022-02-18T22:54:26 IST" duration-ms="13736">
+      <class name="testClasses.test">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:15 IST" name="launchBrowser" finished-at="2022-02-18T22:54:17 IST" duration-ms="2648" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="CreatePOMobject()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:17 IST" name="CreatePOMobject" finished-at="2022-02-18T22:54:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePOMobject -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:17 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:18 IST" duration-ms="864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="LoginTitleVerify()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:18 IST" name="LoginTitleVerify" finished-at="2022-02-18T22:54:19 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTitleVerify -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:19 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:19 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:19 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:20 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="VerifyTimeTrackPage()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:20 IST" name="VerifyTimeTrackPage" finished-at="2022-02-18T22:54:20 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTimeTrackPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:20 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:21 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:21 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:21 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="VerifytitleTaskPage()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:21 IST" name="VerifytitleTaskPage" finished-at="2022-02-18T22:54:22 IST" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifytitleTaskPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:22 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:22 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:22 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:22 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="Timeout0()[pri:1, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:22 IST" name="Timeout0" finished-at="2022-02-18T22:54:23 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Timeout0 -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:23 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:24 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="ClearPOMobjects()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:24 IST" name="ClearPOMobjects" finished-at="2022-02-18T22:54:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearPOMobjects -->
+        <test-method is-config="true" signature="QuiteApp()[pri:0, instance:testClasses.test@4f83df68]" started-at="2022-02-18T22:54:26 IST" name="QuiteApp" finished-at="2022-02-18T22:54:26 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuiteApp -->
+      </class> <!-- testClasses.test -->
+      <class name="testClasses.HeaderTest">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:12 IST" name="launchBrowser" finished-at="2022-02-18T22:54:15 IST" duration-ms="2425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="CreatePOMobject()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:17 IST" name="CreatePOMobject" finished-at="2022-02-18T22:54:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePOMobject -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:17 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:18 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="TitleTaskPage()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:18 IST" name="TitleTaskPage" finished-at="2022-02-18T22:54:20 IST" duration-ms="1536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTaskPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:20 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:20 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:20 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:20 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="URLTaskButten()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:20 IST" name="URLTaskButten" finished-at="2022-02-18T22:54:21 IST" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URLTaskButten -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:21 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:21 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:21 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:22 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="VerifyTimeTrackPage()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:22 IST" name="VerifyTimeTrackPage" finished-at="2022-02-18T22:54:22 IST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTimeTrackPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:22 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:23 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:23 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:23 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="verifyUrlUsagerPage()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:23 IST" name="verifyUrlUsagerPage" finished-at="2022-02-18T22:54:24 IST" duration-ms="764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrlUsagerPage -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:24 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:24 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:24 IST" name="LoginToApplication" finished-at="2022-02-18T22:54:24 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="Timeout()[pri:1, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:24 IST" name="Timeout" finished-at="2022-02-18T22:54:25 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Timeout -->
+        <test-method is-config="true" signature="LogoutApplication()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:25 IST" name="LogoutApplication" finished-at="2022-02-18T22:54:25 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutApplication -->
+        <test-method is-config="true" signature="ClearPOMobjects()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:25 IST" name="ClearPOMobjects" finished-at="2022-02-18T22:54:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearPOMobjects -->
+        <test-method is-config="true" signature="QuiteApp()[pri:0, instance:testClasses.HeaderTest@55183b20]" started-at="2022-02-18T22:54:25 IST" name="QuiteApp" finished-at="2022-02-18T22:54:26 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuiteApp -->
+      </class> <!-- testClasses.HeaderTest -->
+    </test> <!-- Test22 -->
+  </suite> <!-- FirstTestsuit -->
+</testng-results>
